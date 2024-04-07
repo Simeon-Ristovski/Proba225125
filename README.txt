@@ -1,1 +1,2 @@
-Zdravo kako si 
+Zdravo kako si
+Dali si dobar? 
